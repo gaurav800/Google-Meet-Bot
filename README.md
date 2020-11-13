@@ -26,4 +26,4 @@ python -m pip install selenium
 
 * Execute "gMeet.py" and avoid making any mouse-clicks on the browser when the program is running.
 
-* While running the program for the first time, the program might get interupted because of google-security issues(this should happen only the first time). Go through the issues when the pop during the program's execution. Once done, execute the program again
+* While running the program for the first time, the program might get interupted because of google-security issues(this should happen only the first time). Resolve the issues manually when they pop during the program's execution. Once done, execute the program again
