@@ -7,11 +7,11 @@ A bot that attends google meetings. It can exit from the meeting when the number
 * Now with Python installed, Open cmd as administrator and run the following command to install Selenium   
       
 ```
-pip install selenium
+python -m pip install selenium
 ```
 or
 ```
-python -m pip install selenium
+pip install selenium
 ```
 
 * Google Chrome
