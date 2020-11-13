@@ -22,7 +22,7 @@ python -m pip install selenium
 ## Running the program
 * Make sure that 2-step verification process is off for your account
 
-* Open "conf.py" using your text editor and make the changes as per your requirement
+* Update "conf.py" using your text editor and make the changes as per your requirement
 
 * Execute "gMeet.py" and avoid making any mouse-clicks on the browser when the program is running.
 
