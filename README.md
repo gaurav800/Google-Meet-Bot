@@ -20,7 +20,7 @@ python -m pip install selenium
 
 
 ## Running the program
-* Make sure that 2-step verification process is off for your account
+* Make sure that 2-step verification process is off for your google account
 
 * Update "conf.py" using your text editor and make the changes as per your requirement
 
