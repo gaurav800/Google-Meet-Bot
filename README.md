@@ -27,3 +27,15 @@ python -m pip install selenium
 * Execute "gMeet.py" and avoid making any mouse-clicks on the browser when the program is running.
 
 * While running the program for the first time, the program might get interupted because of google-security issues(this should happen only the first time). Resolve the issues manually when they pop during the program's execution. Once done, execute the program again
+
+
+## NOTE
+In case the program is not allowing you to verify yourself during the first execution, change the code at line number 60 to:
+
+```
+time.sleep(100)
+```
+
+This will give you enough time to perform the google verification.
+
+Execute the program again with the orignal code, i.e time.sleep(3)
