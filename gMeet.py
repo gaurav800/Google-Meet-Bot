@@ -25,7 +25,7 @@ opt.add_experimental_option("prefs", { \
     "profile.default_content_setting_values.notifications": 2 
   })
 
-#Logging in to Google account
+#Logging in to Google account using geeks for geeks google sign-in as google doesn't allow direct sign-in through automated browsers
 try:
 	driver = webdriver.Chrome(options=opt) 
 	driver.get('https://accounts.google.com/o/oauth2/auth/identifier?redirect_'+
