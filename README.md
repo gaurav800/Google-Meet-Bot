@@ -1,5 +1,5 @@
 # Google-Meet-Bot
-A bot using selenium and python to attend online googl meetings. It can exit from the meeting when the number of participants drops down a value or if a certain word or phrase has been called during the meeting(eg: your name)
+A bot that attends google meetings. It can exit from the meeting when the number of participants drops down a value or if a certain word or phrase has been called during the meeting(eg: your name)
 
 ## Requirements
 * Python 3.7 or above : https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe (Link for python 3.9.0)
