@@ -16,7 +16,7 @@ pip install selenium
 
 * Google Chrome
 
-* Chrome Driver: Find out which version of Google Chrome you have by going to Help->About Google Chrome. Then go to https://sites.google.com/a/chromium.org/chromedriver/downloads and download the same driver as the Google Chrome version you are using. You’ll want chromedriver_win32.zip. Extract chromedriver_win32.zip and it will give you a file called chromedriver.exe. Now, Paste chromedriver.exe C:\Windows
+* Chrome Driver: Find out which version of Google Chrome you have by going to Help->About Google Chrome. Then go to https://sites.google.com/a/chromium.org/chromedriver/downloads and download the same driver as the Google Chrome version you are using. You’ll want chromedriver_win32.zip. Extract chromedriver_win32.zip and it will give you a file called chromedriver.exe. Now, Paste chromedriver.exe in C:\Windows
 
 
 ## Running the program
