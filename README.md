@@ -36,9 +36,9 @@ pip install selenium
 time.sleep(100)
 ```
 
-This will give you enough time to perform the google verification.
+   This will give you enough time to perform the google verification.
 
-Execute the program again with the orignal code, i.e time.sleep(3)
+   Execute the program again with the orignal code, i.e time.sleep(3)
 
 
 * The voice detection is based on Google Captions, so it is only as good as what google detects.
