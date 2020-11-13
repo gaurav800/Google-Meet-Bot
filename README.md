@@ -4,7 +4,7 @@ A bot that attends google meetings. It can exit from the meeting when the number
 ## Requirements
 * Python 3.7 or above : https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe (Link for python 3.9.0)
    
-* Open cmd as administrator and run the following command to install Selenium   
+* Now with Python installed, Open cmd as administrator and run the following command to install Selenium   
       
 ```
 pip install selenium
